@@ -1,0 +1,12 @@
+begin
+input
+Nhập điểm Toán (Math)
+Nhập điểm Lý (Physics)
+Nhập điểm Hóa (Chemistry)
+
+
+Average = (Math + Physics + Chemistry) / 3
+
+input 
+Average
+end

@@ -1,0 +1,7 @@
+begin
+input
+ số tiền Đô la Mỹ
+Số tiền Việt Nam Đồng (VND) = USD * 23000
+out put
+số tiền Việt Nam Đông VND
+end
