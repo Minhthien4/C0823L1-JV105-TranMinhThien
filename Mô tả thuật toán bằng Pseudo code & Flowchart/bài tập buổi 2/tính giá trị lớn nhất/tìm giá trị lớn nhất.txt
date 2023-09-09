@@ -1,0 +1,13 @@
+begin 
+inout a,b,c
+max=a
+ if max <b
+    b=max
+ else
+   if max <c
+      c=max
+   else
+    output "so lon nhat"
+   end if
+ end if
+end
