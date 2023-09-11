@@ -1,0 +1,12 @@
+begin
+input a1,a2,a3,...an
+max = a1, i=2
+if i>n 
+output max
+else
+ if ai>max
+ max = ai
+ i=i+1
+ end if
+end if
+end
